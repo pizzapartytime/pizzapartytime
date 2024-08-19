@@ -4,7 +4,7 @@
 - I’m looking to collaborate on ... Video Games
 - How to reach me: pizzapartytimepizzapartytime at gmail
 - Pronouns: he/him
-- Fun fact: twitch.tv/pizzapartytime
+- Fun fact: [twitch.tv/pizzapartytime](twitch.tv/pizzapartytim)
 
 <!---
 pizzapartytime/pizzapartytime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
