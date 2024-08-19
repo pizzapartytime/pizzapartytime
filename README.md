@@ -1,4 +1,4 @@
-- Hi, I’m @pizzapartytime, maybe you are here for my build of the unrealeased Mega Drive game Out of the Vortex
+- Hi, maybe you are here for my build of the unrealeased Mega Drive game Out of the Vortex
 - I’m interested in ... Fun with Computers
 - I’m currently learning ... Vulcan
 - I’m looking to collaborate on ... Video Games
