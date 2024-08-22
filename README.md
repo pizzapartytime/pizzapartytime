@@ -3,7 +3,7 @@
 - I’m currently learning ... Vulcan
 - I’m looking to collaborate on ... Video Games
 - How to reach me: pizzapartytimepizzapartytime at gmail
-- Fun fact: [twitch.tv/pizzapartytime](twitch.tv/pizzapartytim)
+- [twitch.tv/pizzapartytime](twitch.tv/pizzapartytim)
 
 <!---
 pizzapartytime/pizzapartytime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
