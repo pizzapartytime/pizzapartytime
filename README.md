@@ -3,7 +3,6 @@
 - I’m currently learning ... Vulcan
 - I’m looking to collaborate on ... Video Games
 - How to reach me: pizzapartytimepizzapartytime at gmail
-- Pronouns: he/him
 - Fun fact: [twitch.tv/pizzapartytime](twitch.tv/pizzapartytim)
 
 <!---
