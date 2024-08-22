@@ -2,8 +2,8 @@
 - I’m interested in ... Fun with Computers
 - I’m currently learning ... Vulcan
 - I’m looking to collaborate on ... Video Games
-- How to reach me: pizzapartytimepizzapartytime at gmail
-- [twitch.tv/pizzapartytime](twitch.tv/pizzapartytim)
+- How to reach me: twitch or discord atm
+- [twitch.tv/pizzapartytime](twitch.tv/pizzapartytime)
 
 <!---
 pizzapartytime/pizzapartytime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
